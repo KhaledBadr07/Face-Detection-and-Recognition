@@ -62,5 +62,5 @@ This project involves the detection and recognition of faces in images using mac
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hanaheshamm/face-detection-recognition.git
+   git clone https://github.com/KhaledBadr07/Face-Detection-and-Recognition
    cd face-detection-recognition
